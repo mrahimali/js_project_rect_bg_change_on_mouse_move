@@ -1,0 +1,6 @@
+1 sabse pehle ye pata karo ke mouse rectangle par aaya and move hua ya nahi
+2 ab ye calculate karo ke hum center se left par hain ya center se right par hain
+3 ab ye calculate karo ke hum center se kitna left par hain , jitna left par hain utni intensity se color lagao
+
+colo - rgb(255,255,255)
+0-255
